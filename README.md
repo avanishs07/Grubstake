@@ -82,3 +82,6 @@ To start the frontend server, navigate to the frontend directory and run the fol
 ### Database
 - **MongoDB**: A NoSQL database used for data storage and retrieval.
 
+- Project Link
+- https://grubstake-frontend.vercel.app/
+
